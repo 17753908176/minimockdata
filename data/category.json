@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "服装",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/97d2e6710e3e344e.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 2
+    },
+    {
+        "id": 2,
+        "title": "包包",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/0a73fdb6902a1f78.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 3
+    },
+    {
+        "id": 3,
+        "title": "鞋",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/3b700d8849417f8e.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 1
+    },
+    {
+        "id": 4,
+        "title": "饰品",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/3f97e1a95b64d34f.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 5
+    },
+    {
+        "id": 5,
+        "title": "居家",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/982d29ff3df5d609.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 4
+    },
+    {
+        "id": 6,
+        "title": "工艺",
+        "img": "https://s3.bmp.ovh/imgs/2022/04/21/265da9eb554b2c63.png",
+        "name": null,
+        "category_id": null,
+        "root_category_id": 24
+    }
+]
